@@ -120,12 +120,7 @@ int main() {
 			cout << num << endl;
 		}
 		num++;
-	} while (num < 1000);*/
-    //打印乘法表
-//注意i,j在循环结束后自动消失
-//break语句用于跳出选择结构和循环结构
-//continue表示跳出本次循环，执行下一次循环
-//跳到
+	} while (num < 1000);
 goto FLAG;
 for (int i = 1; i < 10; i++) {
 	for (int j = 1; j <= i;j++) {
