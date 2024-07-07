@@ -11,7 +11,7 @@ public:
         cout<<"dsds"<<endl;
     }
 };*/
-// is testing the result1
+//the code is testing the result1
 int main(){
 
     A a;
