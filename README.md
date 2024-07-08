@@ -4,3 +4,13 @@ the basic frame of the rpc structure
 111111
 333333
 222222
+
+void fun1(){}
+
+int main(){
+   
+
+   fun1();
+   return 0;
+
+}
